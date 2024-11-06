@@ -1,7 +1,7 @@
 Simply iterate through a list.
 
 ﹕Import
-go get https://github.com/VichyGopher/GoCycle
+go get https://github.com/NxyyLOL/GoCycle
 
 ﹕Functions
   - Next()
